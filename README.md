@@ -3,5 +3,5 @@ In this project we are implementing dijakstra algorithm to find the shortest pos
 
 
 ## Contributors - 
-[Shifa](https://github.com/shifasabr-786)
-[Apruva Anand](https://github.com/apurvaanand51)
+- [Shifa](https://github.com/shifasabr-786)
+- [Apruva Anand](https://github.com/apurvaanand51)
